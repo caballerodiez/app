@@ -1,6 +1,6 @@
 1. In the main page (indicators), enter your suspect's name, any connections with your suspect, and select the indicators shown by your suspect including their dates 
    and locations when available. Once done, click on 'compute'.
 2. In the results page (assessment), you will find your suspect's estimated probability of attack, attack years, and location.
-3. In the networks section, you will find the connections you introduced between your suspect and other suspect/s.
+3. In the networks section, you will find the connections you introduced between your suspect and other suspect/s, as well as indirect links among them.
 4. In the database section, you will find a list of the suspects you introduced including their estimated probabilities of attack, timeframe start dates, and locations.
 5. To update a suspect, you can use the search box of the database, select the suspect by clicking on its name, and introduce the new changes in the indicators page.
